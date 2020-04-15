@@ -6,4 +6,4 @@ Simplified Chinese translations for the NetBeans platform and IDE
 - 搬运自 https://github.com/borisheithecker/netbeans-translations-de
 - 翻译内容搬运自 https://github.com/apache/netbeans-l10n ，新功能的翻译可能有缺失。
 - 从release中下载nbm插件安装并重启后即可看到中文界面。
-![](http://md-1252566120.file.myqcloud.com/picgo/20200415135201.png)
+![](http://md-1252566120.file.myqcloud.com/picgo/20200415135726.png)
